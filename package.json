@@ -1,0 +1,22 @@
+{
+  "name": "instgram_message_responder",
+  "version": "1.0.0",
+  "description": "Automated Messenger for Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph3l1x/instagram_message_responder.git"
+  },
+  "author": "phelix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph3l1x/instagram_message_responder/issues"
+  },
+  "homepage": "https://github.com/ph3l1x/instagram_message_responder#readme",
+  "dependencies": {
+    "instagram-private-api": "^0.6.8"
+  }
+}
